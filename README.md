@@ -1,5 +1,5 @@
 # ECC-Secure-Message-Transfer
-Implemented Elliptic Curve Cryptography (ECC) for secure message transfers between a Client and Server Model in Java with socket programming. Done as a part of our internal assessment for our coursework. ECC is used in applications like digital signatures in cryptocurrencies, such as Bitcoin and Ethereum, as well as one-way encryption of emails, data and software.
+Implemented Elliptic Curve Cryptography (ECC) for secure message transfers between a Client and Server Model in Java with socket programming. ECC is as one-way encryption of emails, data and software and a popular alternative to RSA Algorithm. The algorithm is implemented as a part of our internal assessment for our coursework
 - - - -
 ### Parameters Used
 >* ECC Equation : E(1,1) -> y^2 = x^3 + x + 1
