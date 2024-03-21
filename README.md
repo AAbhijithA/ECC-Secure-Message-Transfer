@@ -13,6 +13,21 @@ Implemented Elliptic Curve Cryptography (ECC) for secure message transfers betwe
 ### Output
 ![](Output/ECC-Output.png)
 - - - -
+### How to run the program
+```
+
+(Terminal 1)
+> javac server.java
+> java server
+
+(Terminal 2)
+> javac client.java
+> java client
+//Use terminal to send messages in Terminal 2 via sockets
+//View Terminal 1 & 2 for interaction between Client & Server
+
+```
+- - - -
 ### Authors
 * [Abhijith Ajith](https://github.com/AAbhijithA)
 * [Amoghavarsh SH](https://github.com/AsHtrich)
