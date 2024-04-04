@@ -4,7 +4,7 @@
 * n is 256
 * na, nb < 256
 * Global Variable G -> Order of n is 333 => E((333^2 + 333 + 1)^(1/2))
-* 1 <= k <= 100
+* 1 <= k <= 1000
 * Authors: Abhijith Ajith, Aravind Krishnan, Amoghavarsh SH
 */
 
